@@ -21,7 +21,7 @@ This repo is just used to hold some of my designs made in Photoshop.<br>
 <p align="center">
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/chars/yae-miko-bg.png" | width=450>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/chars/ayaka-bg.png" | width=450>
-  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/chars/asuna%20one.png" | width=350>
+  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/chars/asuna%20one.png" | width=450>
 </p>
 
 <h4 align="center">More to come...</h4>
