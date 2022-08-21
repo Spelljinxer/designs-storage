@@ -5,6 +5,7 @@ This repo is just used to hold some of my designs made in Photoshop.<br>
 
 <h1 align="center">Wallpapers</h1>
 <p align="center">
+  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/Yelan_wallpaper.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/nier_2B.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/kaguya%20wallpaper.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/yukino%20wallpaper%20edit.png" | width=850>
