@@ -9,6 +9,7 @@ This repo is just used to hold some of my designs made in Photoshop.<br>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/nier_2B.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/kaguya%20wallpaper.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/yukino%20wallpaper%20edit.png" | width=850>
+  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/natsuki_nakagawa_wallpaper.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/MIO%20NEW.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/rem_and_ram.png" | width=850>
 </p>
