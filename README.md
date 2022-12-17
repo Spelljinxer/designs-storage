@@ -4,9 +4,9 @@ This repo is just used to hold some of my designs made in Photoshop.<br>
 
 <h1 align="center">AniList Banners</h1>
 <p align="center">Banners made for my <a href="https://anilist.co/user/Kyokino/">AniList profile.</a><br>(1700 x 330)<br><br>
-  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/yelan-banner.png" | width=850>
-  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/azusa-banner.jpg" | width=850>
-  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/mio-banner.png" | width=850>
+  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/yelan-banner.png" | width=950>
+  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/azusa-banner.jpg" | width=950>
+  <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/mio-banner.png" | width=950>
 </p>
 
 <h1 align="center">Wallpapers</h1>
