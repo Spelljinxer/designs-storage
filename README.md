@@ -3,14 +3,14 @@
 This repo is just used to hold some of my designs made in Photoshop.<br>
 
 <h1 align="center">AniList Banners</h1>
-<p align="center">Banners made for my <a href="https://anilist.co/user/Kyokino/">AniList profile.</a><br><br>
+<p align="center">Banners made for my <a href="https://anilist.co/user/Kyokino/">AniList profile.</a><br>(1700 x 330)<br><br>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/yelan-banner.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/azusa-banner.jpg" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/anilist/mio-banner.png" | width=850>
 </p>
 
 <h1 align="center">Wallpapers</h1>
-<p align="center">Wallpapers for Desktop(1920x1080).<br><br>
+<p align="center">Wallpapers for Desktop<br>(1920x1080)<br><br>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/natsuki_nakagawa_wallpaper.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/yelan_wall.png" | width=850>
   <img src="https://github.com/Spelljinxer/designs-storage/blob/main/designs/wallpapers/nier_2B.png" | width=850>
